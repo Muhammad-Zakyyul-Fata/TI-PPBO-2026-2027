@@ -8,9 +8,9 @@ public class GanjildanGenap {
         int angka = input.nextInt();
 
         if (angka % 2 == 0) {
-            System.out.println(angka + "adalah bilangan Genap.");
+            System.out.println(angka + " adalah bilangan Genap.");
         } else {
-            System.out.println(angka + "adlah bilangan Ganjil.");
+            System.out.println(angka + " adalah bilangan Ganjil.");
         }
 
         input.close();
